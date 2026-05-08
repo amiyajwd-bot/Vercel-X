@@ -1,1 +1,1 @@
-{"seq":11,"ts":1778230202,"frames":[{"id":"caecbbbb2f9dd4d14d0627401","seq":2,"status":"closed"}]}
+{"seq":12,"ts":1778230207,"frames":[{"id":"c662bdb797a3caf7de4dd15ad","seq":2,"status":"error","err":"destination read failed"},{"id":"c662bdb797a3caf7de4dd15ad","seq":3,"status":"closed"}]}
